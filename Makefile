@@ -1,4 +1,4 @@
-run_server: ./redeclipse-1.5.8/redeclipse_server.sh
+run_server: redeclipse-1.5.8
 	REDECLIPSE_BRANCH="inplace" ./redeclipse-1.5.8/redeclipse_server.sh
 
 redeclipse-1.5.8:
